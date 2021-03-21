@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sample blog post
+title: Markdown Sample
 subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+gh-repo: repo-of/repo-of.github.io
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [test, markdown]
 comments: true
 ---
 

@@ -20,16 +20,13 @@ author: Some Person
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
   About: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: 
-    - 동물상테스트: "https://yourface.xyz"
-    - 펜트하우스: "https://thepenthouse.site"
   Blog: "blog"
   Project: "project"
   Tag: "tags"
   Archive: "year-archive"
+  Author's home: 
+    - 동물상테스트: "https://yourface.xyz"
+    - 펜트하우스: "https://thepenthouse.site"
   # Career: "career"
   # Publication: "publication"
   # Blog: "blog"
